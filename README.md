@@ -68,15 +68,11 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 </div>
 
 ---
-
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=niirranjn&theme=tokyo-night&hide_border=true" width="100%"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niirranjn&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
----
 
 ## 🚀 Featured Projects
 
