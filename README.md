@@ -1,11 +1,3 @@
-<!-- BACKGROUND BANNER -->
-
-<div align="center">
-
-<img src="https://pspmask.com/mask/theasylumpspmaskbyheidimanimal935.jpg" width="100%" />
-
-</div>
-
 <!-- HEADER -->
 
 <div align="center">
