@@ -1,3 +1,11 @@
+<!-- BACKGROUND BANNER -->
+
+<div align="center">
+
+<img src="https://pspmask.com/mask/theasylumpspmaskbyheidimanimal935.jpg" width="100%" />
+
+</div>
+
 <!-- HEADER -->
 
 <div align="center">
@@ -37,7 +45,7 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
@@ -50,7 +58,7 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 ### Currently Exploring
 
 <p>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 </p>
@@ -81,12 +89,12 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| Python Projects | Practical Python programming | Python |
-| SQL Projects | Database queries and data manipulation | SQL, MySQL |
-| Data Analysis | Data cleaning, analysis and visualization | Pandas, NumPy, Matplotlib |
-| Data Engineering | Exploring ETL and data pipelines | Python, SQL, PySpark |
+| Project          | Description                             | Technologies |
+| ---------------- | --------------------------------------- | ------------ |
+| Python Projects  | Practical Python programming            | Python       |
+| SQL Projects     | Database queries and data manipulation | SQL          |
+| Data Analysis    | Exploring and visualizing datasets      | Pandas, NumPy, Excel |
+| Data Engineering | Exploring ETL and data pipelines        | Python, SQL  |
 
 *More projects coming soon!*
 
@@ -97,11 +105,11 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 <div align="center">
 
 <a href="https://github.com/niirranjn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/niranjan-g-r">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
