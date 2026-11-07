@@ -68,10 +68,11 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 </div>
 
 ---
-## 📈 Contribution Activity
+<!-- GITHUB CONTRIBUTION CALENDAR -->
+<h2 align="center">📅 GitHub Contribution Calendar</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niirranjn&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://ghchart.rshah.org/niirranjn" alt="GitHub Contribution Calendar" width="100%" />
 </div>
 
 ## 🚀 Featured Projects
