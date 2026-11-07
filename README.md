@@ -69,9 +69,9 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=niirranjn&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://ghstats.dev/api/card?username=niirranjn&theme=tokyonight" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niirranjn&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://ghstats.dev/api/languages?username=niirranjn&theme=tokyonight&layout=compact" />
 
 </div>
 
@@ -84,7 +84,6 @@ Building my skills in data engineering, exploring technologies, and turning raw 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=niirranjn&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
-
 ---
 
 ## 🚀 Featured Projects
